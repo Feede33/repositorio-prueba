@@ -1,0 +1,1 @@
+// Archivo JavaScript principal\ndocument.addEventListener('DOMContentLoaded', function() {\n  console.log('La plataforma de búsqueda de empleos está lista');\n});
